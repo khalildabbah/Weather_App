@@ -1,6 +1,6 @@
 # Weather App
-![Screenshot 1](screenshot.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot 1](Screenshot.png)
+![Screenshot 2](Screenshot2.png)
 ---
 ## Project Overview
 This is a **responsive weather app** built using **React JS** that allows users to search for the current
